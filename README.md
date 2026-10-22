@@ -48,16 +48,6 @@
 
 ---
 
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KarthikBNayak2006/KarthikBNayak2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -73,8 +63,6 @@
 <div align="center">
 
 ### "Dream big. Start small. Build consistently."
-
-<img src="https://komarev.com/ghpvc/?username=KarthikBNayak2006&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 ### ⭐ Thanks for visiting my profile!
 
